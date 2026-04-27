@@ -22,7 +22,6 @@ Currently looking for **software engineering internship opportunities** where I 
 | [**Maestro**](https://github.com/isaacalazar/maestro) | AI-powered internship tracker that connects to Gmail, auto-detects application emails, and updates your job-search dashboard in real time. | TypeScript, Next.js, AI/NLP |
 | [**Flourish**](https://github.com/isaacalazar/flourish) | Personal budgeting mobile app with custom expense tracking, transaction history, and budget visualizations. | Flutter, Dart, Supabase |
 | [**Marketplace Prototype**](https://github.com/isaacalazar/marketplace_prototype) | Full-stack e-commerce marketplace prototype with product catalog, cart, and checkout flow. | TypeScript, React |
-| [**Code-Sync**](https://github.com/isaacalazar/code-sync) | Coding solutions automatically synced from the dotpush extension. | — |
 
 ---
 
