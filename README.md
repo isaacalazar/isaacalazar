@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Isaac 👋
 
-<!--
-**isaacalazar/isaacalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Illinois Chicago (Class of 2026) focused on full-stack development, systems programming, and applied AI. I like building products people actually use — whether that's a budgeting app, an AI internship tracker, or an e-commerce platform.
 
-Here are some ideas to get you started:
+Currently looking for **software engineering internship opportunities** where I can ship real code and grow as an engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech I work with
+
+**Languages:** TypeScript, Dart, Python, Java, C++, C#, Go, F#, SQL  
+**Frameworks:** React, Next.js, Flutter, Node.js, NestJS, ASP.NET  
+**Databases:** PostgreSQL, MongoDB, Firebase, Supabase, Redis  
+**Infra & Tools:** Docker, Kubernetes, AWS, Nginx, Git, GDB
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Maestro**](https://github.com/isaacalazar/maestro) | AI-powered internship tracker that connects to Gmail, auto-detects application emails, and updates your job-search dashboard in real time. | TypeScript, Next.js, AI/NLP |
+| [**Flourish**](https://github.com/isaacalazar/flourish) | Personal budgeting mobile app with custom expense tracking, transaction history, and budget visualizations. | Flutter, Dart, Supabase |
+| [**Marketplace Prototype**](https://github.com/isaacalazar/marketplace_prototype) | Full-stack e-commerce marketplace prototype with product catalog, cart, and checkout flow. | TypeScript, React |
+| [**Code-Sync**](https://github.com/isaacalazar/code-sync) | Coding solutions automatically synced from the dotpush extension. | — |
+
+---
+
+### 📫 Reach me
+
+- **Email:** ialaz@uic.edu  
+- **LinkedIn:** [linkedin.com/in/isaac-alazar](https://www.linkedin.com/in/isaac-alazar)
